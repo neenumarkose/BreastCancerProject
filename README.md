@@ -6,7 +6,6 @@ This project is implemented to find out the cancer type using the Wisconsin data
 
 ## Dataset
 
-https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic) 
 
 Attribute Information:
 
